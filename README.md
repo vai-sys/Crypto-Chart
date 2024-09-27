@@ -13,9 +13,8 @@ A simple React component that allows users to select a cryptocurrency and a time
 
 [Crypto Selector Live Demo](https://crypto-chart-puce-delta.vercel.app/)
 
-![Crypto Selector Demo]
 
-
+[Crypto Selector Demo]
 ![Screenshot 2024-09-27 221754](https://github.com/user-attachments/assets/2d70166d-33c4-4a15-8d33-ab7d0f6da841)
 
 
@@ -25,5 +24,5 @@ cd crypto-Chart
 npm install
 npm run dev
 
-stall required dependencies:
+install required dependencies:
 npm install @headlessui/react @heroicons/react tailwindcss
